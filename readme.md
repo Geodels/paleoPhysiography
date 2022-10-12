@@ -35,4 +35,7 @@ The second two notebooks assume that you have downloaded the physiographic datas
 1. `globalTrends`: extract several of the physiographic dataset variables and plot their trends and correlations over time.
 2. `wsFlux`: analyse river discharge and sediment flux for individual basins at global scale and over time.
 
+## Additional visualisation
+
+The `videos` folder provide animation of global Pharenozoic elevation and river network (`topo.mp4`) and erosion/deposition rates (`ero.mp4`).
 
