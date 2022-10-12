@@ -1,11 +1,13 @@
 name: paleophysio
 channels:
   - conda-forge
+  - anaconda
 dependencies:
   - python=3.9
   - jupyterlab=2.1
   - numpy
   - pip
+  - seaborn
   - pandas
   - scipy
   - compilers
@@ -18,3 +20,4 @@ dependencies:
   - pillow
   - descartes
   - xarray
+  - pygmt
