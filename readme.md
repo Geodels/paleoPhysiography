@@ -1,5 +1,8 @@
 # Paleo-physiography reconstruction for the Phanerozoic
 
+Example of variables available from the dataset
+![Screen Shot 2022-10-12 at 4 25 39 pm](https://user-images.githubusercontent.com/7201912/195257227-c6897c9b-793a-4d30-b0d8-4b367afe7174.png)
+
 ## Dataset via HydroShare
 
 Paleo-physiography reconstruction for the Phanerozoic are available from HydroShare.
