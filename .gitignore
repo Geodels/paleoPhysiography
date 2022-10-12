@@ -1,3 +1,6 @@
 
 .DS_Store
+dataset/wsflux
+test
+globalFlux.csv
 .ipynb_checkpoints
