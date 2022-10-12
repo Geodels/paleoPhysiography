@@ -30,3 +30,9 @@ This will give you a quick overview of what the information contains in the netc
 1. `hs-paleoElevation-access.ipynb`: plotting for a given time interval the elevation at global and local scale
 2. `hs-paleoPhysio-access.ipynb`: plotting physiographic information at local scale
 
+The second two notebooks assume that you have downloaded the physiographic dataset locally. In addition, to evaluate some of the physiographic variables against Phanerozoic Earth database additional files (`csv`) are provided in the `dataset` folder. These notebooks:
+
+1. `globalTrends`: extract several of the physiographic dataset variables and plot their trends and correlations over time.
+2. `wsFlux`: analyse river discharge and sediment flux for individual basins at global scale and over time.
+
+
