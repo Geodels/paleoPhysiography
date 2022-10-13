@@ -40,5 +40,5 @@ The second two notebooks assume that you have downloaded the physiographic datas
 
 ## Additional visualisation
 
-The `videos` folder provide animation of global Pharenozoic elevation and river network (`topo.mp4`) and erosion/deposition rates (`ero.mp4`). It also contains a state file (`paraview_state.pvsm`) that can be loaded in Paraview to visualise individual netcdf file in 3D. 
+The `videos` folder provides animation of global Pharenozoic elevation and river network (`topo.mp4`) and erosion/deposition rates (`ero.mp4`). It also contains a state file (`paraview_state.pvsm`) that can be loaded in Paraview to visualise individual netcdf file in 3D. 
 
