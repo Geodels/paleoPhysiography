@@ -7,7 +7,7 @@ Example of variables available from the dataset
 
 Paleo-physiography reconstruction for the Phanerozoic are available from HydroShare.
 
-Salles, T., L. Husson, M. Lorcery, B. Halder Boggiani (2022). Paleo-Physiography Elevation-only Dataset, HydroShare, http://www.hydroshare.org/resource/b3f1e3581d174bf58b00ba5672604710
+Salles, T., L. Husson, M. Lorcery, B. H. Boggiani (2022). Paleo-Physiography Project, HydroShare, http://www.hydroshare.org/resource/0106c156507c4861b4cfd404022f9580
 
 ## Installation
 
